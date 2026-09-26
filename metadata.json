@@ -1,0 +1,7 @@
+{
+  "name": "Namoz Guide - Islomiy Ta'limiy Qo'llanma",
+  "description": "Namoz, tahorat, duolar, sunnat amallar va sahih hadislarni Hanafiy mazhabi bo'yicha to'liq o'rganish platformasi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
